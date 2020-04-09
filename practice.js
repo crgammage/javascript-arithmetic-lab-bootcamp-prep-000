@@ -7,4 +7,4 @@ function outerFunction() {
     return innerVariable;
   }
 }
-outerFunction();
+outerFunction("I'm sort of a secret.");
