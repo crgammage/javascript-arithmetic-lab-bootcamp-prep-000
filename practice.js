@@ -7,4 +7,4 @@ function outerFunction() {
     return innerVariable;
   }
 }
-outerFunction()
+outerFunction();
