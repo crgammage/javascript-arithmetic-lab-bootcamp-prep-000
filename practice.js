@@ -1,1 +1,2 @@
 var myScope = outerfunction()
+myScope;
