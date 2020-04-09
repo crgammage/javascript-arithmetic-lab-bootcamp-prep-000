@@ -3,3 +3,4 @@ function myFunction() {
   console.log(y);
 }
 myFunction();
+console.log(y);
