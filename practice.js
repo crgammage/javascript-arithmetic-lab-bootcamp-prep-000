@@ -7,3 +7,4 @@ function outerFunction() {
     return innerVariable;
   }
 }
+outerFunction()
