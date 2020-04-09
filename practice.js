@@ -7,7 +7,7 @@ function outerFunction() {
     return innerVariable;
   }
 }
-outerFunction();
+
 var myScope = outerFunction();
 
 myScope;
